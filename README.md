@@ -19,7 +19,7 @@ $ mysql-ctl cli
 
 ## Examples
 
-<p align="center"> <img src="/imgs/screenshot1.png"/>
+<p align="center"> <img src="/imgs/screenshot1.PNG"/>
 
 ## Acknowledgements
 
