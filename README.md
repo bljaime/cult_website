@@ -9,7 +9,7 @@ As I didn't upload the *node_modules* folder, which must contain dependencies, I
 ```bash
 $ npm install
 ```
-  Note that ***package.json*** is supposed to update automatically (please, check anyway).
+  Note that ***package.json*** is supposed to update automatically (please, check it out anyway).
   
 Also, a **join_us** database must be created. You can do it through MySQL CLI using:
 
@@ -17,9 +17,13 @@ Also, a **join_us** database must be created. You can do it through MySQL CLI us
 $ mysql-ctl cli
 ```
 
-## Examples
+## How it works
 
-<p align="center"> <img src="/imgs/screenshot1.PNG"/>
+This is what we visualize when we enter the URL: <p align="center"> <img src="/imgs/screenshot1.PNG"/>
+  
+Then, we can proceed to enter an email address: <p align="center"> <img src="/imgs/screenshot2.PNG"/>
+  
+And, once we press *Join Now*, the count of members who have joined the cult increases unitarily in an interactive way: <p align="center"> <img src="/imgs/screenshot3.PNG"/>
 
 ## Acknowledgements
 
