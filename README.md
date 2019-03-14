@@ -1,3 +1,5 @@
+# An imaginary cult's website
+
 This is a first version of a minimalist and naive website for an imaginary cult.
 
 In order to simplify the task, [Cloud9](https://c9.io) has been used, in which we have worked with **node.js** and **express** framework to build our server.
